@@ -38,9 +38,39 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+
+
+
+
+
+
+![Screenshot 2025-04-10 104412](https://github.com/user-attachments/assets/bae95ad2-fa63-4f52-9488-105e4d644c2f)
+
+
+
+
+
+
+
+
+![Screenshot 2025-04-10 104456](https://github.com/user-attachments/assets/cf636639-e143-4be7-8f4b-f0dca6b22638)
+
+
+
+
+
+
+
+
+
 **Procedure**
 
 Write the detailed procedure here
+1. Write the code in Quartus software by creating a new project wizard.
+2. Run the program to get output.
+3. Then open RTL viewer and download that image.
+4. Open new file with University program VWF
+5. Set end timer and execute, then download the waveform.
 
 **Program:**
 
